@@ -5,3 +5,14 @@ body{
 h1{
     background-color: aquamarine;
 }
+
+.title {
+  font-size: 20px;
+  color: rgb(235, 9, 9);
+}
+
+#principal{
+
+    font-size: 50px;
+
+}
